@@ -1,4 +1,4 @@
-
+var mykey = config.MY_KEY;
 const apiKey = "f1251f6a1a8d9352cfb9f4554afb928b";
 const apiUrl = "https://api.openweathermap.org/data/2.5/weather?&units=metric&q=";
 
